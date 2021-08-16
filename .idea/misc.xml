@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable-v24/ic_pin_screen_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_pin_screen_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/drawable/pin_button_style.xml" value="0.2703125" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/activity_access_pin.xml" value="0.19751499571550984" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_add_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_home.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/tips_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

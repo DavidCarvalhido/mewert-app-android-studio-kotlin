@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mewert</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_title_add_item" translatable="false">New Item</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="title_tips" translatable="false">Tips</string>
+    <string name="pin_description" translatable="false">Input the code or use fingerprint</string>
+</resources>
