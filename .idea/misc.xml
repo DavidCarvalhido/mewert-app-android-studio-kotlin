@@ -13,8 +13,16 @@
         <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_add_item.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_home.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_notifications.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_tips.xml" value="0.25" />
         <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/layout/tips_fragment.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/David/AndroidStudioProjects/Mewert/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/drawable/ic_outline_directions_car_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/drawable/pin_button_style.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/layout/activity_access_pin.xml" value="0.2375" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/David/Projects/AndroidStudioProjects/Mewert/app/src/main/res/layout/fragment_tips.xml" value="0.12708333333333333" />
       </map>
     </option>
   </component>

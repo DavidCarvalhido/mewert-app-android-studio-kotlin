@@ -6,8 +6,8 @@ import androidx.lifecycle.ViewModel
 
 class TipsViewModel : ViewModel() {
 
-    private val _text = MutableLiveData<String>().apply {
+    /*private val _text = MutableLiveData<String>().apply {
         value = "This is tips Fragment"
     }
-    val text: LiveData<String> = _text
+    val text: LiveData<String> = _text*/
 }

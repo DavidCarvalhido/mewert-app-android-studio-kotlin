@@ -26,7 +26,7 @@
     <fragment
         android:id="@+id/navigation_tips"
         android:name="com.daviddev.mewert.ui.tips.TipsFragment"
-        android:label="fragment_tips"
+        android:label="@string/title_tips"
         tools:layout="@layout/fragment_tips" />
 
     <activity

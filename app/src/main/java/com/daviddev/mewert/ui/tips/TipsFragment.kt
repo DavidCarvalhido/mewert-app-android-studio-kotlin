@@ -31,10 +31,10 @@ class TipsFragment : Fragment() {
         _binding = FragmentTipsBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textTips
+        /*val textView: TextView = binding.textTips
         tipsViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
-        })
+        })*/
         return root
     }
 
@@ -42,5 +42,4 @@ class TipsFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
-
 }
