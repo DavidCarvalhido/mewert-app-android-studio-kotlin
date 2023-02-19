@@ -30,6 +30,12 @@
         tools:layout="@layout/fragment_tips" />
 
     <activity
+        android:id="@+id/navigation_settings"
+        android:name="com.daviddev.mewert.ui.settings.SettingsActivity"
+        android:label="@string/title_settings"
+        tools:layout="@layout/activity_settings" />
+
+    <activity
         android:id="@+id/accessPinActivity"
         android:name="com.daviddev.mewert.AccessPinActivity"
         android:label="activity_access_pin"
