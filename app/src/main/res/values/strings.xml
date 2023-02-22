@@ -5,5 +5,5 @@
     <string name="title_notifications">Notifications</string>
     <string name="title_tips" translatable="false">Tips</string>
     <string name="pin_description" translatable="false">Input the code or use fingerprint</string>
-    <string name="title_settings" translatable="false">Settings</string>
+    <string name="title_settings">Options</string>
 </resources>

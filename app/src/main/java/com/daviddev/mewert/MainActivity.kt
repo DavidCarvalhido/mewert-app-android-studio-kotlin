@@ -4,7 +4,6 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toast
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
@@ -12,7 +11,6 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.daviddev.mewert.databinding.ActivityMainBinding
-import com.daviddev.mewert.ui.settings.SettingsActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -47,7 +45,6 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             R.id.menu_settings -> {
-                //Toast.makeText(this, "Settings", Toast.LENGTH_SHORT).show()
                 val intent = Intent(this, SettingsActivity::class.java)
                 startActivity(intent)
                 true

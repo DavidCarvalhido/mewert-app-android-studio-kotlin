@@ -1,7 +1,7 @@
 package com.daviddev.mewert
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class AccessPinActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Mewert</string>
     <string name="title_notifications" translatable="false">Notificações</string>
+    <string name="title_settings">Opções</string>
 </resources>
