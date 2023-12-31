@@ -7,4 +7,5 @@
     <color name="brown_dark">#FFA99688</color>
     <color name="grey_light">#FFCECED7</color>
     <color name="grey_dark">#FF2A2522</color>
+    <color name="pin_code_circle_color">#282828</color>
 </resources>

@@ -40,21 +40,27 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="1" />
+                android:text="1"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="2" />
+                android:text="2"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/pin_button_style"
-                android:text="3" />
+                android:text="3"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
         </TableRow>
 
         <TableRow
@@ -67,21 +73,27 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="4" />
+                android:text="4"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="5" />
+                android:text="5"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="6" />
+                android:text="6"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
         </TableRow>
 
         <TableRow
@@ -94,21 +106,27 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="7" />
+                android:text="7"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn8"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="8" />
+                android:text="8"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn9"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="9" />
+                android:text="9"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
         </TableRow>
 
         <TableRow
@@ -121,15 +139,29 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/pin_button_style"
-                android:text="0" />
+                android:text="0"
+                android:textColor="@color/brownish_light"
+                android:textSize="30sp" />
 
-            <Button
-                android:id="@+id/btn"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+            <ImageButton
+                android:id="@+id/img_btn_fingertip"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:background="@drawable/pin_button_style"
-                android:text="0" />
+                android:contentDescription="fingertip icon"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_fingertip_icon" />
         </TableRow>
+
+        <Button
+            android:id="@+id/login_temporario"
+            android:layout_width="346dp"
+            android:layout_height="wrap_content"
+            android:text="Login temp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
     </TableLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--file added (to work on it)-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <stroke
+        android:color="@color/pin_code_circle_color"
+        android:width="1px"/>
+
+    <solid
+        android:color="@color/pin_code_circle_color"/>
+
+    <size
+        android:width="@dimen/pin_code_circle_size"
+        android:height="@dimen/pin_code_circle_size"/>
+</shape>
